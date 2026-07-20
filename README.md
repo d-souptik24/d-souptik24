@@ -69,9 +69,9 @@ I started with a B.Sc. in Physics, then moved into a B.Tech in Information Techn
 | Project | What it does | Stack |
 |---|---|---|
 | 🌐 [CivicPulse](https://github.com/d-souptik24/civic-pulse) | Civic issue-tracking platform built in an 8-day hackathon — Gemini-powered photo analysis, geohash-based duplicate detection, deployed on Cloud Run | React, Node.js, Firestore, Gemini AI, Docker |
-| 🩺 [ECG Digitalization](https://github.com/d-souptik24/ECG-DIGITALIZATION) | Converts scanned ECG paper strips into structured time-series data using a deep learning ensemble model | Flutter, Flask, ESP-32 CAM |
-| 🏠 [Wanderlust](https://github.com/d-souptik24/Wanderlust) | Airbnb-style property listing platform following the MVC pattern | Node.js, Express, MongoDB, EJS |
-| 🌡️ [Arduino Temperature Monitor](https://github.com/d-souptik24/ArduinoProject) | Real-time temperature monitoring with NTC thermistor and Steinhart–Hart calibration | Arduino, C++ |
+| 🩺 [ECG Digitalization](https://github.com/d-souptik24/ecg-image-digitizer) | Converts scanned ECG paper strips into structured time-series data using a deep learning ensemble model | Flutter, Flask, ESP-32 CAM |
+| 🏠 [Wanderlust](https://github.com/d-souptik24/wanderlust) | Airbnb-style property listing platform following the MVC pattern | Node.js, Express, MongoDB, EJS |
+| 🌡️ [Arduino Temperature Monitor](https://github.com/d-souptik24/uno-temp-monitor) | Real-time temperature monitoring with NTC thermistor and Steinhart–Hart calibration | Arduino, C++ |
 
 ---
 
