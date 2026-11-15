@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Souptik Dutta 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Software+Development+Engineer;Backend+%26+Distributed+Systems;Next.js+16+%7C+Spring+Boot+%7C+TypeScript;B.Tech+IT+%26+Physics+Graduate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=E66727&center=true&vCenter=true&width=620&lines=Software+Development+Engineer;Backend+%26+Distributed+Systems;Next.js+16+%7C+Spring+Boot+%7C+TypeScript;B.Tech+IT+%26+Physics+Graduate" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -38,45 +38,47 @@ Having a physics background means I approach software from first principles: iso
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
 </p>
 
-**Frameworks & Backends**
+**Frameworks & Backend Architecture**
 <p align="left">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
 </p>
 
-**Databases & Cloud**
+**Databases, Cloud & DevOps**
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostGIS-Spatial-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostGIS" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP" />
 </p>
 
-**Developer Tools & Core CS**
+**Developer Tools, AI & Systems**
 <p align="left">
+   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white" alt="Wasm" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
+
 ---
-
 ### 🚀 Featured Projects
-
 | Project | Description & Architecture | Stack | Links |
 | :--- | :--- | :--- | :---: |
-| **PoiEx** | Privacy-first Web IDE running full Node.js dev environments client-side via WebContainers (Wasm). Features on-device Ollama SLM completions, terminal error analysis, and Prisma 6 database persistence. | Next.js 16, WebContainers (Wasm), Ollama, Monaco, Prisma, MongoDB | [Source](https://github.com/d-souptik24/poiex) |
-| **CivicPulse v2** | Hyperlocal civic reporting platform with PostGIS spatial deduplication (`ST_DWithin` within 200m), client-side EXIF GPS parsing, and Gemini multimodal verification for before/after repairs. | React 19, Express, Supabase (PostGIS), Gemini AI, Vercel | [Live Demo](https://civic-pulse-in.vercel.app) \| [Source](https://github.com/d-souptik24/civic-pulse-v2) |
-| **Guard Dengue** | Epidemiological vector surveillance and dengue outbreak risk prediction system combining risk models with spatio-temporal data tracking. | Python, FastAPI, Scikit-Learn, React | [Source](https://github.com/d-souptik24/guard-dengue) |
-| **ECG Digitizer** | Converts scanned 12-lead paper ECG strips into calibrated digital time-series voltage data using computer vision signal extraction pipelines. | Python, OpenCV, Deep Learning, Flask | [Source](https://github.com/d-souptik24/ecg-image-digitizer) |
-
+| **PoiEx** | Privacy-first Web IDE that executes Node.js dev environments client-side via WebContainers (Wasm). Features on-device Ollama code autocompletion (Qwen2.5-Coder), interactive xterm.js terminal with build error diagnosis, and Prisma database persistence. | Next.js 16, TypeScript, WebContainers (Wasm), Monaco, Ollama, Prisma, MongoDB | [Source](https://github.com/d-souptik24/poiex) |
+| **CivicPulse** | Hyperlocal civic reporting platform that prevents duplicate tickets via PostGIS spatial queries (`ST_DWithin` across a 200m radius). Uses Gemini Multimodal API to classify issue severity and verify physical repairs using before/after image diffs, with client-side EXIF GPS extraction and Supabase RLS. | React 19, Express Serverless, Supabase (PostgreSQL, PostGIS), Gemini API, Vercel | [Live](https://civic-pulse-in.vercel.app) \| [Source](https://github.com/d-souptik24/civic-pulse-v2) |
+| **Guard Dengue** | Clinical safety-aware SLM triage framework developed under faculty supervision. Uses LangGraph for deterministic state routing (`urgent`, `education`, `medication`, `uncertain_abstain`) to eliminate hallucinations, enforcing strict clinical safety guardrails (such as blocking contraindicated NSAIDs) with BGE-M3 dense vector retrieval. | Python, LangGraph, PyTorch, BGE-M3 Embeddings, Docling, FastAPI | [Source](https://github.com/d-souptik24/guard-dengue) |
+| **ECG Digitizer** | Signal reconstruction pipeline that converts smartphone photos of historical paper ECGs into calibrated 12-lead digital voltage data (`.npy`). Employs a 3-stage PyTorch deep learning ensemble (normalize → rectify → digitize) to correct paper warping and grid tilt, supported by an async Flask REST API and optional ESP32-CAM IoT capture. | Python, PyTorch (Conv3D/EfficientNet), OpenCV, Flask, ESP32-CAM | [Source](https://github.com/d-souptik24/ecg-image-digitizer) |
 ---
 
 ### 👤 Profile Overview & Activity
@@ -96,11 +98,12 @@ Having a physics background means I approach software from first principles: iso
 
 ---
 
-### 📜 Certifications & Honors
-
-- 🏅 **Oracle Cloud Infrastructure 2025** — AI Foundations Associate ([Credential](https://drive.google.com/file/d/1Z7Cp8vBJ-0sPL57MKq7YQ2ZyFXLtPQkq/view?usp=drive_link))
-- 🏆 **Vibe2Ship Hackathon 2026** (Coding Ninjas & Google Cloud) — Built and deployed CivicPulse as a complete product within an 8-day sprint ([Certificate](https://drive.google.com/file/d/1WPMx0r4KL0xrcF6U9vxNu3Q4XeDsTiAz/view?usp=drive_link))
-
+### 📜 Certifications & Continuous Learning
+- **Oracle Cloud Infrastructure 2025** — AI Foundations Associate ([ Link ](https://drive.google.com/file/d/1Z7Cp8vBJ-0sPL57MKq7YQ2ZyFXLtPQkq/view?usp=drive_link))
+- **Vibe2Ship Hackathon 2026** (Coding Ninjas & Google Cloud) — Designed, built, and shipped CivicPulse in an 8-day sprint ([ Link ](https://drive.google.com/file/d/1WPMx0r4KL0xrcF6U9vxNu3Q4XeDsTiAz/view?usp=drive_link))
+- **Google Cloud Skills Boost** — Completed 140+ hands-on cloud architecture labs and skill badges across Cloud Run, Kubernetes, and Pub/Sub ([ Public Profile ](https://www.skills.google/public_profiles/c6ae1995-c580-4406-ae5a-565493175107))
 ---
-
-<p align="center"><i>Always open to discussing backend architectures, systems engineering, or interesting open-source projects.</i></p>
+<p align="center">
+  <i>Always open to discussing backend architectures, systems engineering, or open-source projects.</i><br>
+  <b>Reach me at: <a href="mailto:duttasouptik0@gmail.com">duttasouptik0@gmail.com</a></b>
+</p>
